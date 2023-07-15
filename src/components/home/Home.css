@@ -1,0 +1,15 @@
+
+
+.cart-body img {
+    width: 100%;
+    
+}
+
+.cart-body h4 {
+    max-width: 330px;
+    font-size: 18px;
+}
+
+.cart-body p {
+    max-width: 350px;
+}

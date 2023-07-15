@@ -1,0 +1,26 @@
+
+header{
+    display: flex !important;
+    top: 0;
+    width: 100%;
+}
+
+
+.catigory-gape {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+
+.nav-link-post{
+  color: white;
+  font-weight: 600;
+  font-size: 22px;
+}
+
+@media(max-width:600px){
+  .catigory-gape{
+    flex-direction: column;
+  }
+}
